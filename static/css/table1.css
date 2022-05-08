@@ -1,0 +1,20 @@
+body{
+    background-image:url(img/sunset-g9af330260_1920.jpg);
+    background-repeat: no-repeat;
+}
+body{
+    text-align: center;
+}
+table,th,td{
+    border:2px solid black;
+}
+table{
+    border-collapse: collapse;
+    position:absolute;
+    margin-left: 100px;
+    border: 5px;
+
+}
+th,td{
+    padding:20px;
+}
